@@ -3,15 +3,6 @@ Interactive Power BI dashboard analyzing BlinkIT grocery sales, item performance
 
 # 🛒 BlinkIT Grocery Sales Analysis — Power BI Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
-![Excel](https://img.shields.io/badge/Data-Excel-217346?logo=microsoft-excel\&logoColor=white)
-
-An interactive **Power BI dashboard** developed to analyze BlinkIT grocery sales data and identify key patterns across products, outlet types, outlet locations, outlet sizes, ratings, and item categories.
-
-The project transforms raw grocery sales data into an interactive dashboard that helps users understand overall business performance and compare sales across different outlet and product characteristics.
-
----
 
 ## 📌 Project Overview
 

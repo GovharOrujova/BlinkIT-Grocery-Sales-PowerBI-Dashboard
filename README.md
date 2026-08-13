@@ -325,6 +325,4 @@ blinkit-grocery-sales-powerbi-dashboard/
 
 [https://www.linkedin.com/in/govhar-orujova-64333b369/]
 
----
 
-⭐ If you found this project useful, feel free to star the repository.

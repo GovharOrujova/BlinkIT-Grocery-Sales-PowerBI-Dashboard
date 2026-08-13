@@ -6,6 +6,8 @@ Interactive Power BI dashboard analyzing BlinkIT grocery sales, item performance
 
 ## 📌 Project Overview
 
+![BlinkIT Dashboard Page 1](images/page1.png)
+
 The dataset contains **8,523 records and 12 columns** related to grocery items and BlinkIT outlets.
 
 ### Dataset Fields
